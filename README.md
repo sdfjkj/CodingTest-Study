@@ -24,7 +24,7 @@
 - 협업 시작하기   
   - Fork뜨기    
   - (터미널)git clone [복사한 url 붙여넣기(본인계정 url)]   
-  - upstream 설정 : git remote add upstream https://github.com/sdfjkj/Python-CodingTest-Study.git   
+  - upstream 설정 : git remote add upstream https://github.com/sdfjkj/Python-CodingTest-Study.git
   - (참고*) fork한 본인의 repository([본인계정]/Python-CodingTest-Study)는 origin, 원본 repository(sdfjkjPython-CodingTest-Study)는 upstream이라고 한다.      
 <br>
 
