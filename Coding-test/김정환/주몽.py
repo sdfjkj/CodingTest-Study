@@ -11,3 +11,4 @@ for com in combinations(nlist, 2):
         res += 1
 
 print(res)
+asdfkasdjvklasdjv
