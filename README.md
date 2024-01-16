@@ -1,4 +1,4 @@
-# Python-CodingTest-Study
+# CodingTest-Study
 <div align="center">
   <h1>🖥Algorithm-Study🖥</h1>
 </div>
