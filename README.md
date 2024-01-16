@@ -1,4 +1,4 @@
-![image](https://github.com/sdfjkj/CodingTest-Study/assets/95211829/0833283a-74be-4c2a-8618-727b228fa6cb)# CodingTest-Study
+# CodingTest-Study
 <div align="center">
   <h1>🖥Algorithm-Study🖥</h1>
 </div>
