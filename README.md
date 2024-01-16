@@ -1,4 +1,4 @@
-# CodingTest-Study
+![image](https://github.com/sdfjkj/CodingTest-Study/assets/95211829/0833283a-74be-4c2a-8618-727b228fa6cb)# CodingTest-Study
 <div align="center">
   <h1>🖥Algorithm-Study🖥</h1>
 </div>
@@ -11,7 +11,7 @@
 ---
 
 ## Member   
-| <img src='https://i.namu.wiki/i/AzBBoyawsmnw6ZS_rUo6a6fgvCRwrd6wuaecq6O3hGTuYdFz6NRB_k32VXgmOseF5ihOQ2xI2LWn43ZTZYQ7lw.webp' width='120px' height='120px' alt='avatar'/><br/><b>[윤영서](https://github.com/sdfjkj)</b> |  <img src='https://i.namu.wiki/i/AzBBoyawsmnw6ZS_rUo6a6fgvCRwrd6wuaecq6O3hGTuYdFz6NRB_k32VXgmOseF5ihOQ2xI2LWn43ZTZYQ7lw.webp' width='120px' height='120px' alt='avatar'/><br/><b>[이주원](https://github.com/duoni-o)</b>  |  <img src='https://github.com/sdfjkj/CodingTest-Study/assets/95211829/330197f6-99ce-429f-8fcf-658343bd8aa5' width='120px' height='120px' alt='avatar'/><br/><b>[김정환](https://github.com/sdfjkj)</b>  | 
+| <img src='https://i.namu.wiki/i/AzBBoyawsmnw6ZS_rUo6a6fgvCRwrd6wuaecq6O3hGTuYdFz6NRB_k32VXgmOseF5ihOQ2xI2LWn43ZTZYQ7lw.webp' width='120px' height='120px' alt='avatar'/><br/><b>[윤영서](https://github.com/sdfjkj)</b> |  <img src='https://github.com/sdfjkj/CodingTest-Study/assets/95211829/8db3754c-4923-4834-afdd-cf60bd6e0334' width='120px' height='120px' alt='avatar'/><br/><b>[이주원](https://github.com/duoni-o)</b>  |  <img src='https://github.com/sdfjkj/CodingTest-Study/assets/95211829/330197f6-99ce-429f-8fcf-658343bd8aa5' width='120px' height='120px' alt='avatar'/><br/><b>[김정환](https://github.com/wjdghks9292)</b>  | 
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
 
 ---
