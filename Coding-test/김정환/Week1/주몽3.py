@@ -1,9 +1,20 @@
-## 좌 우에서 한칸 한칸씩 다가가고, 같은 인덱스면 스탑
-## 그전에 매치되는 것이 있다면, 리스트에서 제거하고 다시 처음부터 
-
 n = int(input())
 m = int(input())
 nlist = list(map(int, input().split()))
+nlist.sort(reverse=True)
 
-while(True):
-    
+start, end = 0, n-1
+count = 0
+
+while start<end:
+    Sum = nlist[start] + nlist[end]
+    if Sum > m:
+            start += 1
+    elif Sum < m:
+         end -= 1
+    else:
+        count += 1
+        start += 1
+        end -= 1
+
+print(count)
