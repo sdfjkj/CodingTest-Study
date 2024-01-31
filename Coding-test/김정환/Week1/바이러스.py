@@ -19,5 +19,3 @@ if len(web) == 0:
     print(0)
 else:
     print(len(web)-1)
-
-    # 실험
