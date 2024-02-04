@@ -1,8 +1,0 @@
-- ?  / 실버 4 / 햄버거 사랑
-https://www.acmicpc.net/problem/1980
-
-- ? /골드 3 / 나만 안되는 연애
-https://www.acmicpc.net/problem/14621
---------------------------------------------------
--? / 골드 1 / 카드놀이 
-https://www.acmicpc.net/problem/2066
