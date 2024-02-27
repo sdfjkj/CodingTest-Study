@@ -20,6 +20,7 @@ def bfs(graph,a,b):
         graph[nx][ny]=0
         d.append((nx,ny))
   return 1
+
 for i in range(t):
   count=0
   m, n, k = map(int, input().split())
