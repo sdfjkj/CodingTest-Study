@@ -8,11 +8,11 @@ d={}
 count=0
 
 for _ in range(n):
-  data = input().rstrip()
+  data = input()
   d[data] = True
 
 for _ in range(m):
-  data= input().rstrip()
+  data= input()
   if data in d:
     count+=1
 

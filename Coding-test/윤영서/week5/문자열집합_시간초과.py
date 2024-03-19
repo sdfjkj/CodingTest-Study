@@ -2,7 +2,7 @@
 import sys
 imput = sys.stdin.readline
 n,m = map(int, input().split())
-s=[]
+s=set()
 for i in range(n):
   s.append(input())
 
