@@ -11,8 +11,25 @@
 
 using namespace std;
 
-int n, m, k, sum;
+int n, m, k, sum, mx, ret;
+int s, e, mid;
 vector<int> money;
+
+bool Check(int mid)
+{
+	int cnt = 1;
+	int temp = mid;
+	for (int i = 0; i < n; i++)
+	{
+		if (mid < money[i])
+		{
+			mid = temp;
+			cnt++;
+		}
+		mid -= money[i];
+	}
+	return cnt <= m;
+}
 
 int main()
 {
@@ -24,13 +41,25 @@ int main()
 		int a;
 		cin >> a;
 		money.push_back(a);
-		sum += a;
+		mx = max(a, mx);
 	}
 
-	k = sum / m; // k 초기값 설정
+	s = mx, e = 1000000004;
 
+	while (s <= e)
+	{
+		mid = (s + e) / 2;
+		if (Check(mid))
+		{
+			e = mid - 1;
+			ret = mid;
+		}
+		else
+		{
+			s = mid + 1;
+		}
+	}
 
-
-
+	cout << ret << "\n";
 	return 0;
 }
