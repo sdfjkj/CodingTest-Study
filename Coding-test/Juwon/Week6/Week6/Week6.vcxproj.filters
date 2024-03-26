@@ -30,5 +30,17 @@
     <ClCompile Include="2293.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="29717_실패.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6236.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="29717.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2343.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
